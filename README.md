@@ -1,2 +1,0 @@
-# Beginner-
-project.py
